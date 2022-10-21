@@ -50,6 +50,7 @@ Pilih sesuai dengan versi Os anda lalu klik download
    ` print("Saya sedang belajar python") `
 
     berikut ouput yang di hasilkan
+    
     ![img](img/hallo%20dunia.png)
   
 # Latihan 2
@@ -66,6 +67,7 @@ Pilih sesuai dengan versi Os anda lalu klik download
  print = ("hasil = ", a+b )
 ``` 
  makan akan muncul seperti ini
+ 
  ![img](img/Lat%202.png)
 
 
