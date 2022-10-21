@@ -25,7 +25,8 @@ Setelah itu saya akan menggunkan teks editor dari visual studio code.
 Pilih sesuai dengan versi Os anda lalu klik download
 2. kemudian Instal VS Code hingga selesai [cara instal dan download](https://www.youtube.com/watch?v=OSmaWPSgvTQ).
 
-* Jika sudah anda bisa mengecek apakah python sudah terinstal atau belom dengan cara membuka command promt, lalu ketik syntaks ``` Python --version ``` maka akan muncul seperti berikut ![img](img/Screenshot%202022-10-21%20164506.png)
+* Jika sudah anda bisa mengecek apakah python sudah terinstal atau belom dengan cara membuka command promt, lalu ketik syntaks ``` Python --version ``` maka akan muncul seperti berikut 
+![img](img/Screenshot%202022-10-21%20164506.png)
   
   artinya python anda berhasil di instal.
 
