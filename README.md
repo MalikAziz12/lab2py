@@ -1,1 +1,3 @@
-#Latihan3
+# BELAJAR BAHASA PYTHON UNTUK PEMULA
+
+daftar isi :
